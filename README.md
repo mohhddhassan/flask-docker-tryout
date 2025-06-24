@@ -62,5 +62,4 @@ flask-docker-tryout/
 
 This is a beginner-level tryout — next step: Docker Compose + multi-container setup!
 
-```
 
